@@ -1,2 +1,2 @@
 # Scrum-bootcamp
-Imprortancia da aula de Scrum
+Importância da aula de Scrum
